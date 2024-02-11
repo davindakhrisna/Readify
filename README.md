@@ -6,3 +6,7 @@ Aplikasi ini memanfaatkan teknologi dan algoritma khusus untuk membaca dan menaf
 Keunggulan dari aplikasi ini adalah kemampuannya untuk menjaga kualitas dan integritas konten selama proses konversi. Dengan dukungan untuk berbagai fitur tambahan seperti pengaturan font, ukuran halaman, dan layout, pengguna dapat menghasilkan file ePub atau PDF yang sesuai dengan preferensi mereka.
 
 Selain itu, Readify juga menyediakan antarmuka pengguna yang intuitif dan mudah digunakan, memungkinkan pengguna untuk dengan cepat dan efisien melakukan konversi file tanpa memerlukan pengetahuan teknis yang mendalam. Hal ini membuat aplikasi ini sangat berguna bagi siapa pun yang membutuhkan konversi antara format PDF dan ePub dalam pekerjaan atau aktivitas sehari-hari mereka.
+
+
+Dikarenakan limit dari GitHub maka akan saya share melalui link dibawah :
+https://drive.google.com/drive/folders/1C3blG4X0pPywaG3zHTbKARNos2pkKwkg?usp=sharing
